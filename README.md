@@ -1,4 +1,12 @@
-# CYB 371 - Role-Based Access Control (RBAC) Demo
+# CUL-CYB371 - Role-Based Access Control (RBAC) Demo
+
+**NAME:** IBIZUGBE MICHAEL GREGORY
+**MATRIC NO:** 24/14703
+**DEPARTMENT:** CYBER SECURITY
+**LEVEL:** 300 LEVEL
+**COURSE:** CUL-CYB371
+
+---
 
 A Python demonstration of the basic idea of **Role-Based Access Control (RBAC)**
 using fictional users and permissions.
@@ -71,4 +79,4 @@ Sample output:
 
 ## Author
 
-Michael Gregory Ibizugbe - CYB 371
+IBIZUGBE MICHAEL GREGORY - CUL-CYB371
